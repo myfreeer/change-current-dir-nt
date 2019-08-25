@@ -1,0 +1,3 @@
+[submodule "dll-hijack"]
+	path = dll-hijack
+	url = https://github.com/myfreeer/dll-hijack
